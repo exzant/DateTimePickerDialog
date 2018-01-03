@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a4915145bcd45348492eca438c57666d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\057734a8b9cad2a4971139f63ca23aae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\fba93b21ae7e8c1db904f4b34fe19d78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c6328b4e0f333eca2f8aeb33f05dd730\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9f6f91e4ee55e34a74d164bd947c2bff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2413d6096ca0473448702e0a3a421b6e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\51a8582ad169fdc5f6bbee03049f96df\AndroidManifest.xml:17:1-24:12
+INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml
+		INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml
+		INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml
+		INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a4915145bcd45348492eca438c57666d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a4915145bcd45348492eca438c57666d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\057734a8b9cad2a4971139f63ca23aae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\057734a8b9cad2a4971139f63ca23aae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\fba93b21ae7e8c1db904f4b34fe19d78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\fba93b21ae7e8c1db904f4b34fe19d78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c6328b4e0f333eca2f8aeb33f05dd730\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c6328b4e0f333eca2f8aeb33f05dd730\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9f6f91e4ee55e34a74d164bd947c2bff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9f6f91e4ee55e34a74d164bd947c2bff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2413d6096ca0473448702e0a3a421b6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2413d6096ca0473448702e0a3a421b6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\51a8582ad169fdc5f6bbee03049f96df\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Eko PS\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\51a8582ad169fdc5f6bbee03049f96df\AndroidManifest.xml:20:5-22:41
+INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml
+		INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml
+		INJECTED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml
+application
+ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:11:5-25:19
+	android:label
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.datetimepickerdialog.MainActivity
+ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from X:\Android\Project\DateTimePickerDialog-master1\app\src\main\AndroidManifest.xml:22:27-74
